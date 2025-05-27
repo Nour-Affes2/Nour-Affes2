@@ -4,7 +4,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 I'm a **Data and AI Engineering Student** at **ESILV, France**.
+- 🎓 I'm a **Data Engineering and AI Student** at **ESILV, France**.
 - 🔬 I work on different Data and AI projects.
 - 🌱 Currently learning **Software Engineering**, **Data Science**, **Machine Learning**, **Deep Learning** and **Data Technologies**.
 - 💡 Passionate about leveraging data to create meaningful solutions for real-world challenges.
